@@ -1,6 +1,6 @@
 # raman-spectroscopy-analysis
 
-This project processes Raman spectroscopy data from Renishaw structures (Raman Microscope files). It extracts peak information and generates heatmaps representing the spatial distribution of these peaks across the sample.
+This project processes Raman spectroscopy data from Horiba structures (Raman Microscope files). It extracts peak information and generates heatmaps representing the spatial distribution of these peaks across the sample.
 
 ## Features
 - Reads and parses Raman02 data files
